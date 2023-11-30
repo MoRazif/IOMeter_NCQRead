@@ -1,4 +1,4 @@
-## Simple API for Lecroy Analyzer Interface : Running IOMeter + Check for Read NCQ ##
+## Example utilize API for Lecroy Analyzer Interface : Running IOMeter + Check for Read NCQ ##
 ## M.Razif 2018 ##
 
 import re, os, sys, time, optparse, random, win32com.client, logging, subprocess
